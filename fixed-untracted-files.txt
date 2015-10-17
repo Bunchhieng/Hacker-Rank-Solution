@@ -1,5 +1,0 @@
-#http://stackoverflow.com/questions/11451535/gitignore-not-working
-
-git rm -r --cached .
-git add .
-git commit -m "fixed untracked files"
