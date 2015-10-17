@@ -17,6 +17,7 @@ public class Loop {
                 sum += Math.pow(2, j)*b;
                 System.out.printf("%d ", sum + a);
             }
+            System.out.println();
             sum = 0;
         }
     }
